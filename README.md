@@ -2,7 +2,7 @@
 
 Tools and configurators used by me
 
-## AI Skills (ai-skills)
+## AI Skills (/ai-skills)
 - **[anti-slop](./ai-skills/anti-slop)** — Output guardrails and anti-slop prompt rules for cleaner LLM responses.
 - **[claude-skills-llm-council](./ai-skills/claude-skills-llm-council)** — Multi-LLM council deliberation skill for structured reasoning workflows.
 
